@@ -1,0 +1,15 @@
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\TikTacToeGame\bin\Debug\net6.0\TikTacToeGame.exe
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\TikTacToeGame\bin\Debug\net6.0\TikTacToeGame.deps.json
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\TikTacToeGame\bin\Debug\net6.0\TikTacToeGame.runtimeconfig.json
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\TikTacToeGame\bin\Debug\net6.0\TikTacToeGame.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\TikTacToeGame\bin\Debug\net6.0\ref\TikTacToeGame.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\TikTacToeGame\bin\Debug\net6.0\TikTacToeGame.pdb
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\TikTacToeGame\obj\Debug\net6.0\TikTacToeGame.csproj.AssemblyReference.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\TikTacToeGame\obj\Debug\net6.0\TikTacToeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\TikTacToeGame\obj\Debug\net6.0\TikTacToeGame.AssemblyInfoInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\TikTacToeGame\obj\Debug\net6.0\TikTacToeGame.AssemblyInfo.cs
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\TikTacToeGame\obj\Debug\net6.0\TikTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\TikTacToeGame\obj\Debug\net6.0\TikTacToeGame.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\TikTacToeGame\obj\Debug\net6.0\ref\TikTacToeGame.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\TikTacToeGame\obj\Debug\net6.0\TikTacToeGame.pdb
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\TikTacToeGame\obj\Debug\net6.0\TikTacToeGame.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d193e957-cd57-4124-90ea-003b62deabc4": {
+      "ProjectGuid": "d193e957-cd57-4124-90ea-003b62deabc4",
+      "DisplayName": "TikTacToeGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
